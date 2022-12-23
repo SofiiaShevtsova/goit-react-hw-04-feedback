@@ -11,6 +11,7 @@ color: brown;
 &:hover{
 background-color: rgb(150, 50, 50);
 color: rgb(255, 255, 255)`;
+
 const FeedbackOptions = props => {
   const { onLeaveFeedback, options } = props;
   return (
